@@ -1,0 +1,666 @@
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\appsettings.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.staticwebassets.runtime.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.staticwebassets.endpoints.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.exe
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.deps.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.runtimeconfig.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.pdb
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.AssemblyReference.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.AssemblyInfoInputs.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.AssemblyInfo.cs
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.CoreCompileInputs.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.RazorAssemblyInfo.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.RazorAssemblyInfo.cs
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\bundle\TEST_MVC2.styles.css
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\projectbundle\TEST_MVC2.bundle.scp.css
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lvvvklfp0o-b9sayid5wm.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\uypqa79iai-61n19gt1b8.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\c2wb3rsfzl-xtxxf3hu2r.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\fwjkpjhmch-bqjiyaj88i.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\o70aq1wzgk-c2jlpeoesf.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qsaclhrn9h-erw9l3u2r3.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\aorky71cvn-aexeepp0ev.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\vqvsmrnh55-d7shbmvgxk.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\7i9rqs8zp5-ausgxo2sd3.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\8nbgl3d4qz-k8d9w2qqmf.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\nbdh4mphxp-cosvhxvwiu.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\o9b2zmaqlw-ub07r2b239.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\m4fwikpqc0-fvhpjtyr6v.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\hz9ze7dv7x-b7pk76d08c.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\34jroxga9i-fsbi9cje9m.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\e4pp3lltjy-rzd6atqjts.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\0w27k6907f-ee0r1s7dh0.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\n93tda7ra7-dxx9fxp4il.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\pmyix875zb-jd9uben2k1.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\1r4knd00tc-khv3u5hwcm.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6o8z17gf76-r4e9w2rdcm.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\zdpxtfwx9q-lcd1t2u6c8.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\rbjdblke9u-c2oey78nd0.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\7w84ydvox7-tdbxkamptv.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\gbzbgqbomh-j5mq2jizvt.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\ij9nuv4k3r-06098lyss8.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6htcajvije-nvvlpmu67g.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\yvc9ahp1yg-s35ty4nyc5.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\tiidieq7ws-pj5nd1wqec.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\0vlxdmnz14-46ein0sx1k.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\86w83yx3lo-v0zj4ognzu.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\x4zesrdww6-37tfw0ft22.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\te2e40cftq-hrwsygsryq.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\4l235rhmcf-pk9g2wxc8p.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qik4mpltmt-ft3s53vfgj.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\2rsxkn9s22-6cfz1n2cew.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\eap5vti3l4-6pdc2jztkx.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\44bkonbc7s-493y06b0oq.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\4lgy0o5n85-iovd86k7lj.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lspmdgn71e-vr1egmr9el.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\dmj2iz0hm2-kbrnm935zg.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\wxp8sclik7-jj8uyg4cgr.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\zs2y7mfs35-y7v9cxd14o.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\d84hrat4f2-notf2xhcfb.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6wp3irxl7i-h1s4sie4z3.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\p8qn3ss83x-63fj8s7r0e.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\kn42qjd8bm-0j3bgjxly4.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lrug6yhguj-47otxtyo56.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\d1scthm1gb-4v8eqarkd7.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6xkrmcoes3-356vix0kms.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\f5e4dd5u5d-83jwlth58m.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\a615xwmi2a-mrlpezrjn3.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\nrz5zqxb77-lzl9nlhx6b.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qsephras82-ag7o75518u.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\auf2egavsw-x0q3zqp4vz.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\jbs6wyqdgx-0i3buxo5is.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\ne5mmvcy0e-o1o13a6vjx.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\fxjjky7nfn-ttgo8qnofa.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\1o7ogps79q-2z0ns9nrw6.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\xuhw0oamq4-muycvpuwrr.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\aee0y8acft-87fc7y1x7t.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\xxfyz00stf-mlv21k5csn.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\5xuidy5ap2-ky9a5q17gx.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\x13oglyujq-ky9a5q17gx.gz
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.TEST_MVC2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.TEST_MVC2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.build.TEST_MVC2.props
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TEST_MVC2.props
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TEST_MVC2.props
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.Up2Date
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\refint\TEST_MVC2.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.pdb
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.genruntimeconfig.cache
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\ref\TEST_MVC2.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raul2\OneDrive\Escritorio\semestre-OCT24-MAR25\Pruebas\Tercer parcial\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\abtpliu8fx-572f3aj89r.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\appsettings.Development.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\appsettings.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.staticwebassets.endpoints.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.staticwebassets.runtime.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.exe
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.deps.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.runtimeconfig.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TEST_MVC2.pdb
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Azure.Core.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Azure.Identity.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Humanizer.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Build.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Common.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.ClientModel.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.CodeDom.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.AssemblyReference.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.AssemblyInfoInputs.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.AssemblyInfo.cs
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.CoreCompileInputs.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.MvcApplicationPartsAssemblyInfo.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.RazorAssemblyInfo.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.RazorAssemblyInfo.cs
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.sourcelink.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\bundle\TEST_MVC2.styles.css
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\scopedcss\projectbundle\TEST_MVC2.bundle.scp.css
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lvvvklfp0o-b9sayid5wm.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\abtpliu8fx-572f3aj89r.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\uypqa79iai-61n19gt1b8.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\c2wb3rsfzl-xtxxf3hu2r.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\fwjkpjhmch-bqjiyaj88i.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\o70aq1wzgk-c2jlpeoesf.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qsaclhrn9h-erw9l3u2r3.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\aorky71cvn-aexeepp0ev.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\vqvsmrnh55-d7shbmvgxk.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\7i9rqs8zp5-ausgxo2sd3.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\8nbgl3d4qz-k8d9w2qqmf.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\nbdh4mphxp-cosvhxvwiu.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\o9b2zmaqlw-ub07r2b239.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\m4fwikpqc0-fvhpjtyr6v.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\hz9ze7dv7x-b7pk76d08c.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\34jroxga9i-fsbi9cje9m.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\e4pp3lltjy-rzd6atqjts.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\0w27k6907f-ee0r1s7dh0.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\n93tda7ra7-dxx9fxp4il.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\pmyix875zb-jd9uben2k1.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\1r4knd00tc-khv3u5hwcm.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6o8z17gf76-r4e9w2rdcm.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\zdpxtfwx9q-lcd1t2u6c8.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\rbjdblke9u-c2oey78nd0.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\7w84ydvox7-tdbxkamptv.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\gbzbgqbomh-j5mq2jizvt.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\ij9nuv4k3r-06098lyss8.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6htcajvije-nvvlpmu67g.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\yvc9ahp1yg-s35ty4nyc5.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\tiidieq7ws-pj5nd1wqec.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\0vlxdmnz14-46ein0sx1k.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\86w83yx3lo-v0zj4ognzu.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\x4zesrdww6-37tfw0ft22.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\te2e40cftq-hrwsygsryq.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\4l235rhmcf-pk9g2wxc8p.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qik4mpltmt-ft3s53vfgj.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\2rsxkn9s22-6cfz1n2cew.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\eap5vti3l4-6pdc2jztkx.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\44bkonbc7s-493y06b0oq.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\4lgy0o5n85-iovd86k7lj.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lspmdgn71e-vr1egmr9el.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\dmj2iz0hm2-kbrnm935zg.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\wxp8sclik7-jj8uyg4cgr.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\zs2y7mfs35-y7v9cxd14o.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\d84hrat4f2-notf2xhcfb.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6wp3irxl7i-h1s4sie4z3.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\p8qn3ss83x-63fj8s7r0e.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\kn42qjd8bm-0j3bgjxly4.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\lrug6yhguj-47otxtyo56.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\d1scthm1gb-4v8eqarkd7.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\6xkrmcoes3-356vix0kms.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\f5e4dd5u5d-83jwlth58m.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\a615xwmi2a-mrlpezrjn3.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\nrz5zqxb77-lzl9nlhx6b.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\qsephras82-ag7o75518u.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\auf2egavsw-x0q3zqp4vz.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\jbs6wyqdgx-0i3buxo5is.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\ne5mmvcy0e-o1o13a6vjx.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\fxjjky7nfn-ttgo8qnofa.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\1o7ogps79q-2z0ns9nrw6.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\xuhw0oamq4-muycvpuwrr.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\aee0y8acft-87fc7y1x7t.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\xxfyz00stf-mlv21k5csn.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\5xuidy5ap2-ky9a5q17gx.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\x13oglyujq-ky9a5q17gx.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.build.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.development.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.TEST_MVC2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.TEST_MVC2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.build.TEST_MVC2.props
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TEST_MVC2.props
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TEST_MVC2.props
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.pack.json
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.csproj.Up2Date
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\refint\TEST_MVC2.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.pdb
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\TEST_MVC2.genruntimeconfig.cache
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\ref\TEST_MVC2.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\obj\Debug\net9.0\compressed\umqyqppaoy-mw80od4mbs.gz
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Reqnroll.xUnit.ReqnrollPlugin.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\CucumberExpressions.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Gherkin.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Reqnroll.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Validation.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\xunit.abstractions.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\xunit.core.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\xunit.execution.dotnet.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\Xunit.SkippableFact.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\BoDi.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\TechTalk.SpecFlow.dll
+D:\U, dolor de cabeza\SEPTIMO SEMESTRE\PRUEBAS DE SOFTWARE\TEST_MVC2\TEST_MVC2\bin\Debug\net9.0\SpecFlow.Internal.Json.dll

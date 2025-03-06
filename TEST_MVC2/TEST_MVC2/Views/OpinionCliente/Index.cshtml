@@ -1,0 +1,38 @@
+﻿@model IEnumerable<TDDTestingMVC1.Models.OpinionCliente>
+
+<h2>Opiniones de Clientes</h2>
+
+<p>
+    <a asp-action="Create">Crear Nueva Opinión</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Cliente ID</th>
+            <th>Producto ID</th>
+            <th>Calificación</th>
+            <th>Comentario</th>
+            <th>Fecha</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.OpinionID</td>
+                <td>@item.ClienteID</td>
+                <td>@item.ProductoID</td>
+                <td>@item.Calificacion</td>
+                <td>@item.Comentario</td>
+                <td>@item.Fecha.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.OpinionID">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.OpinionID">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

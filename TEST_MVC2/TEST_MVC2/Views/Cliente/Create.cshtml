@@ -1,0 +1,83 @@
+﻿@model TEST_MVC2.Models.Cliente
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Usuario</h1>
+<script src="~/js/validaciones.js"></script>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card shadow p-4">
+                <h4 class="text-center mb-4">Nuevo Cliente</h4>
+
+                <form asp-action="Create" asp-controller="Cliente" method="post">
+                    <div class="mb-3">
+                        <label asp-for="Cedula" class="form-label"></label>
+                        <input asp-for="Cedula" class="form-control" />
+                        <span asp-validation-for="Cedula" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Apellidos" class="form-label"></label>
+                        <input asp-for="Apellidos" class="form-control" />
+                        <span asp-validation-for="Apellidos" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Nombres" class="form-label"></label>
+                        <input asp-for="Nombres" class="form-control" />
+                        <span asp-validation-for="Nombres" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="FechaNacimiento" class="form-label"></label>
+                        <input asp-for="FechaNacimiento" type="date" class="form-control" />
+                        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Mail" class="form-label"></label>
+                        <input asp-for="Mail" type="email" class="form-control" />
+                        <span asp-validation-for="Mail" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Telefono" class="form-label"></label>
+                        <input asp-for="Telefono" class="form-control" />
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Direccion" class="form-label"></label>
+                        <input asp-for="Direccion" class="form-control" />
+                        <span asp-validation-for="Direccion" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Estado" class="form-label"></label>
+                        <select asp-for="Estado" class="form-control">
+                            <option value="">-- Seleccione Estado --</option>
+                            <option value="true">Activo</option>
+                            <option value="false">Inactivo</option>
+                        </select>
+                        <span asp-validation-for="Estado" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Index" class="btn btn-secondary">Volver</a>
+                        <button type="submit" class="btn btn-primary">Guardar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
